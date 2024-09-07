@@ -9,3 +9,6 @@
 
 **OS**  
 * Windows10-64bit Home 22H2
+
+# reading assignment
+[Ch02. Relational Data Model and Constraints](https://codesharpener.notion.site/Ch02-Relational-Data-Model-and-Constraints-2811f584c4f346bda8062d9061e16f95?pvs=4)
